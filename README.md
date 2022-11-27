@@ -1,0 +1,1 @@
+# Singleton_and_Adapter
